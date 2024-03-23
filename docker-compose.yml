@@ -100,9 +100,9 @@ services:
 
   
 volumes:
-  mqtt_data:
-  mqtt_log:
-  mqtt_config:
+  mqtt-data:
+  mqtt-log:
+  mqtt-config:
   node-red-data:
   grafana-data:
   influxdb-data:
